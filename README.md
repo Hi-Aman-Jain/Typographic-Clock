@@ -2,7 +2,7 @@
 
 ![Typographic Clock](clock_demo.gif)
 
-This is a typographic clock created using HTML, CSS, and JavaScript. It displays the current time by moving a redish-colored segment over each number, providing a unique and visually appealing way of showing time. The clock comes with both dark and light modes for different preferences.
+This is a typographic clock created using HTML, CSS, and JavaScript. It displays the current time by moving a Second segment over each number, providing a unique and visually appealing way of showing time. The clock comes with both dark and light modes for different preferences.
 
 ## Features
 
@@ -12,7 +12,7 @@ This is a typographic clock created using HTML, CSS, and JavaScript. It displays
 
 ## Demo
 
-Check out the live demo: [Typographic Clock Demo]([https://your-demo-link-here.com](https://hi-aman-jain.github.io/Typographic-Clock/))
+Check out the live demo: Typographic Clock Demo: https://hi-aman-jain.github.io/Typographic-Clock/
 
 ## Screenshots
 
