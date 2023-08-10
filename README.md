@@ -16,8 +16,8 @@ Check out the live demo: Typographic Clock Demo: https://hi-aman-jain.github.io/
 
 ## Screenshots
 
-![Dark Mode](screenshots/dark_mode.png)
-![Light Mode](screenshots/light_mode.png)
+![Dark Mode](Dark-Mode.png)
+![Light Mode](Light-Mode.png)
 
 ## Installation
 
